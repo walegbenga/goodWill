@@ -1,1 +1,1 @@
-
+"Goodwill Store is a WordPress project e-commerce Plugin used for experimenting on how to create a fully functional wordpress plugin. It will soon be a finished and polished plugin which you can use. The plugin as at now 04/01/2020 lacks some critical needs of an e-commerce site i.e. A gateway Payment(GP) is not yet integrated into the plugin
